@@ -1,4 +1,5 @@
 # DOM Testing Demo
+# Code borrowed from github.com/thawkin3/dom-testing-demo.git
 
 This is an experimental project for testing HTML and vanilla JS with Jest and `@testing-library/dom`. You can [read my article on Medium](https://levelup.gitconnected.com/how-to-unit-test-html-and-vanilla-javascript-without-a-ui-framework-c4c89c9f5e56?source=friends_link&sk=15836e19406fd422a13411e3ef497c0d) about this project as well.
 
